@@ -10,6 +10,7 @@ let isValid = (str) => {
   let closed = {
     ")": true,
   };
+
   if (str.includes("(") == true) {
     for (let i = 0; i < str.length; i++) {
       let char = str[i];
@@ -25,11 +26,10 @@ let isValid = (str) => {
   }
 };
 
-console.log(isValid("(This is valid)")); // True
-console.log(isValid("(This (is) valid)")); // True
-console.log(isValid("This is not valid")); // False
-console.log(isValid("(This is not valid +")); // False
-console.log(isValid("This ( is not valid")); //False
+console.log(isValid("(())")); // True
+console.log(isValid("(()")); // False
+console.log(isValid("(= x y)")); // True
+console.log(isValid("Hello World")); // False
+console.log(isValid("(FACTORIAL 4")); // False
+console.log(isValid("((member (first L1) L2))")); // True
 console.log(isValid("USER(1): (* 2 (cos 0) (+ 4 6))")); //True
-console.log(isValid("((()))")); // True
-console.log(isValid("(()()))")); // False
