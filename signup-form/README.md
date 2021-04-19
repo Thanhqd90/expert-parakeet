@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+## 1. Tell me about your proudest professional achievement. It can also be a personal or school project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My proudest professional achievement was successfully launching an ROI calculator to our website for prospective customers to estimate their savings by switching to our software. Our business analyst provided me with what he wanted, and an excel spreadsheet with the formulas with the expected inputs/outputs and I was able to produce this within our CMS (Umbraco).
 
-## Available Scripts
+My proudest personal achievement was creating a website feature that allowed me to run tournaments for a video game I play more efficiently. Before covid, this web app was used worldwide and many tournament organizers around the world were able to use the feature I developed in order to improve the logistics of running their tournaments as the number of entrants grew.
 
-In the project directory, you can run:
+## 2. Tell me about something you have read recently that you would recommend and why. (Can be a Github Repo, Article, Blog, Book, etc)
 
-### `npm start`
+Last year, being in touch with my own mental health became a priority. A book I recently read that allowed me to understand myself better is "No More Mr. Nice Guy" by Dr. Robert Glover. While not all of the scenarios outlined in this book applied to me, I did have a serious case of "Nice guy syndrome" and was simply a yes man to everything throughout my life. This book has helped me create healthier relationships with the people in my life.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 3. How would you explain what Availity does to your grandmother?
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Availity is a computer program that makes the communication, payments and getting information in health care billing, benefits, and claims much simplier.
 
-### `npm test`
+# LISP Validator
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Write a program which takes in a string as an input and returns true if all the parentheses in the string are properly closed and nested.
 
-### `npm run build`
+Run lisp.js in node.js or paste it into a console that runs JavaScript.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Signup form
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Signup form interface with basic validation, and confirmation of success upon submit.
